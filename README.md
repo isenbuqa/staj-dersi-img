@@ -1,0 +1,2 @@
+# staj-dersi-img
+fotolar
